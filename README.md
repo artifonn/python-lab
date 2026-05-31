@@ -38,13 +38,13 @@ estudos-python/
 
 ### Fundamentos
 
-- [ ] Variáveis e tipos de dados
-- [ ] Operadores aritméticos
-- [ ] Operadores lógicos
-- [ ] Operadores relacionais
-- [ ] Entrada e saída de dados
-- [ ] Estruturas condicionais (`if`, `elif`, `else`)
-- [ ] Estruturas de repetição (`for`, `while`)
+- [x] Variáveis e tipos de dados
+- [x] Operadores aritméticos
+- [x] Operadores lógicos
+- [x] Operadores relacionais
+- [x] Entrada e saída de dados
+- [x] Estruturas condicionais (`if`, `elif`, `else`)
+- [x] Estruturas de repetição (`for`, `while`)
 
 ### Estruturas de Dados
 
