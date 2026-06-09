@@ -133,8 +133,8 @@ estudos-python/
 
 ## 📊 Progresso Geral
 
-- [ x ] Fundamentos
-- [ x ] Estruturas de Dados
+- [x] Fundamentos
+- [x] Estruturas de Dados
 - [ ] Funções
 - [ ] Manipulação de Arquivos
 - [ ] Tratamento de Exceções
