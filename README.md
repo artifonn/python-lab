@@ -48,11 +48,11 @@ estudos-python/
 
 ### Estruturas de Dados
 
-- [ ] Strings
-- [ ] Listas
-- [ ] Tuplas
-- [ ] Dicionários
-- [ ] Conjuntos (Sets)
+- [x] Strings
+- [x] Listas
+- [x] Tuplas
+- [x] Dicionários
+- [x] Conjuntos (Sets)
 
 ### Funções
 
